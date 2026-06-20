@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión en calma, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Pasión en calma, Vol. 2** (pasion-en-calma-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T01:33:43.663639 | `v1` | `837e3b454b8f83dd0f6b011d53bea91a005585ba5f477615a3a86a0de827f8c9` | `95c2ae669ba71574779c8ab7213350e9e784b4637c532b1bf95a85691b6d596d` | `2026-06-21_pasion-en-calma-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

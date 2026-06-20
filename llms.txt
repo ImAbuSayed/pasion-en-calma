@@ -1,4 +1,4 @@
-# Pasión en calma
+# Pasión en calma, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Pasión en calma |
+| **Title** | Pasión en calma, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-en-calma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Pasión en calma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-calma/) |
+| **Get License** | [Request Licensing for Pasión en calma, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-calma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Otra noche en la ciudad y tú estás en mi mente
+> Esa mirada tuya, mami, tú eres diferente
+> Te busco por la disco, el ambiente está caliente
+> Solo dime dónde estás y llego de repente
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `837e3b454b8f83dd0f6b011d53bea91a005585ba5f477615a3a86a0de827f8c9` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
